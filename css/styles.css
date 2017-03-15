@@ -1,0 +1,30 @@
+table {
+  float: left;
+  margin-top: 0;
+  max-width: 495px;
+  width: 47.5%;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  background-color: tan
+}
+
+  td, th {
+    border: 5px solid #red;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+body {
+  background-color: salmon
+}
+
+.sidebar {
+  font-family: cursive;;
+  width: 40%;
+  float: right;
+  background-image: url("http://images.naldzgraphics.net/2012/08/15-Notebook.jpg")
+}
