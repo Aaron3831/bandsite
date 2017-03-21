@@ -28,3 +28,12 @@ body {
   float: right;
   background-image: url("http://images.naldzgraphics.net/2012/08/15-Notebook.jpg")
 }
+
+.hidden {
+  display: none;
+}
+
+.clickable {
+  color: teal;
+  cursor: pointer;
+}
